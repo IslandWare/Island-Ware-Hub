@@ -1,5 +1,4 @@
 
--- Instances: 269 | Scripts: 42 | Modules: 0 | Tags: 0
 local G2L = {};
 
 -- StarterGui.Settings
